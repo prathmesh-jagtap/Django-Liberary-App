@@ -1,7 +1,5 @@
 # django-library-app
 
-A tutorial app to explain django dynamic formsets. Blog post can be found [here](https://medium.com/@taranjeet/adding-forms-dynamically-to-a-django-formset-375f1090c2b0)
-
 ### Setup
 
 * Clone the project
@@ -49,3 +47,6 @@ This is the demo for adding multiple books using model forms
 * /store/book/create_with_author
 
 This is the demo for adding a book with multiple author, both using model forms
+
+### Reference
+A tutorial app to explain django dynamic formsets. Blog post can be found [here](https://medium.com/@taranjeet/adding-forms-dynamically-to-a-django-formset-375f1090c2b0)
